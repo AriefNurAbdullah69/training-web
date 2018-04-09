@@ -2,5 +2,5 @@
 
 ## Author
 
-NIM: [nim]  
-Nama: [nama anda]
+NIM: 16410100076
+Nama: Arief Nur Abdullah
